@@ -1,4 +1,4 @@
-# Machine Learning Bookcamp
+# Machine Learning Bootcamp
 
 The code from the Machine Learning Bookcamp book
 
